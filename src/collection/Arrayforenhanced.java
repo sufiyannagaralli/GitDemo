@@ -11,6 +11,7 @@ public class Arrayforenhanced {
 			System.out.println(Arrays.equals(marks, marks1));
 			System.out.println("My name is Sufiyan Nagaralli");
 			System.out.println("Belive or not im sufiyan nagaralli");
+			System.out.println("Really Im Sufiyan Nagaralli");
 
 		}
 
